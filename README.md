@@ -7,9 +7,9 @@ As a data scientist you will spend a lot of time writing code in Python. In this
 
 ## Objectives
 You will be able to:
-* Use base Python methods like `.append()`, `.upper()` and `.capitalize()`
+* Use base Python methods like `.append()`, `.upper()` and `.capitalize()``.remove()`
 * Understand (simply) and explain what built in Python methods are
-* Understand, explain and use some base Python functions like `len()`, `type()`, `sum()`, `max()` and `min()`
+* Understand, explain and use some base Python functions like `count()`,`len()`, `type()`, `sum()`, `max()` and `min()`
 * Understand and explain what functions are and why they’re useful
 * Understand, explain and use Python comparison, logical, and identity operators
 
